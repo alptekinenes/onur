@@ -1,0 +1,20 @@
+.mainMenu {
+  background-color: $dark;
+  height: 100vh;
+  
+  &-Logo {
+    background-color: $primary;
+    width: 100%;
+    padding: 2rem 2rem 2rem 2rem;
+  }
+  &-Content {
+    li {
+      a {
+        color: $light;
+        &:hover{
+            color: $light;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+.login {
+  background: url("../../../assets/img/bg.jpg");
+  object-fit: cover;
+  background-position: center center;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  .card {
+    padding: 2rem;
+    svg {
+      
+      max-height: 1.5rem;
+    }
+  }
+}
