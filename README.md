@@ -1,6 +1,5 @@
-# onur
+# onur task
 
 
-npm install
-
-gul-development
+run npm install
+run gulp-development
